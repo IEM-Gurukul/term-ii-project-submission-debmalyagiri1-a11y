@@ -16,7 +16,10 @@ Students, Librarians
 ---
 
 ## Core Features
-- 
+- Add books
+- Search books
+- Issue books
+- Return books
 - 
 - 
 - 
