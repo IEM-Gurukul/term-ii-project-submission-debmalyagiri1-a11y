@@ -37,6 +37,10 @@ This project follows an object-oriented design. The system consists of classes s
 ---
 
 ## How to Run
+1. Open the project in any Java IDE (Eclipse/IntelliJ/VS Code)
+2. Navigate to the src folder
+3. Run the main class file
+4. Follow the menu options in the console
 
 ---
 
