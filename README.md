@@ -32,6 +32,7 @@ Students, Librarians
 ---
 
 ## Proposed Architecture Description
+This project follows an object-oriented design. The system consists of classes such as User, Book, and Library. The user interacts with the system through a menu-driven interface. The system processes the request and stores data using collections like ArrayList.
 
 ---
 
