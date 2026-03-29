@@ -12,7 +12,7 @@ This project helps manage books in a library. It allows users to add, search, is
 
 ## Target User
 
-
+Students, Librarians
 ---
 
 ## Core Features
