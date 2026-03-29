@@ -7,15 +7,16 @@ Library Management System
 ---
 
 ## Problem Statement (max 150 words)
-
+This project helps manage books in a library. It allows users to add, search, issue, and return books easily. It reduces manual work and improves efficiency.
 ---
 
 ## Target User
 
+
 ---
 
 ## Core Features
-
+- 
 - 
 - 
 - 
@@ -23,12 +24,7 @@ Library Management System
 ---
 
 ## OOP Concepts Used
-
-- Abstraction:
-- Inheritance:
-- Polymorphism:
-- Exception Handling:
-- Collections / Threads:
+- 
 
 ---
 
