@@ -20,15 +20,15 @@ Students, Librarians
 - Search books
 - Issue books
 - Return books
-- 
-- 
-- 
 
 ---
 
 ## OOP Concepts Used
-- 
-
+- Abstraction: Hides internal logic
+- Inheritance: User → Student/Admin
+- Polymorphism: Same function different behavior
+- Exception Handling: Handles errors
+- Collections: Uses ArrayList
 ---
 
 ## Proposed Architecture Description
